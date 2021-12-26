@@ -6,4 +6,4 @@ Kill Vanguard Anticheat when Valorant is not running and start when Valorant is 
 
 2 - Set your Valorant Path in settings.cfg
 
-3 - Run the game with Valoran-launcher.exe
+3 - Run the game with valorant-launcher.exe
