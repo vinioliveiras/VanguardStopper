@@ -1,5 +1,5 @@
-# VanguardKiller
-Kill Vanguard Anticheat when Valorant is not running and start when Valorant is open
+# VanguardStopper
+Stop Vanguard when Valorant is not running and start when Valorant is open
 
 
 1 - Extract files to some directory where you like
